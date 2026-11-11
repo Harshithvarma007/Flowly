@@ -1,0 +1,11 @@
+.build/
+.swiftpm/
+dist/
+*.zip
+.DS_Store
+*.xcodeproj
+xcuserdata/
+# local signing material (see README)
+*.pem
+*.p12
+cert.cnf
