@@ -7,6 +7,7 @@
 **Private, on-device voice dictation for macOS.**
 Hold a key, speak naturally, and polished text appears in whatever app you're typing in.
 
+[![CI](https://github.com/Harshithvarma007/Flowly/actions/workflows/ci.yml/badge.svg)](https://github.com/Harshithvarma007/Flowly/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/macOS-14%2B-lightgrey)
 ![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-M1%2B-black)
